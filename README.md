@@ -4,6 +4,7 @@
 3. (ucm / statsmodels)[https://www.statsmodels.org/stable/examples/notebooks/generated/statespace_structural_harvey_jaeger.html]
 4. (darts)[https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878]
 5. (ebook)[https://otexts.com/fpp2/index.html]
+6. (Predict Future Sales | Kaggle)[https://www.kaggle.com/c/competitive-data-science-predict-future-sales]
 
 ## NEXT STEPS
 1. ARIMA manual identification
