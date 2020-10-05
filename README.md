@@ -16,9 +16,10 @@
 
 
 ## ARTICLES
-https://medium.com/towards-artificial-intelligence/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9
-https://towardsdatascience.com/a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97
-https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55
-https://medium.com/swlh/using-sktime-for-time-series-classification-part-2-b07bb6b56d5
-https://towardsdatascience.com/forecast-model-tuning-with-additional-regressors-in-prophet-ffcbf1777dda
-https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a
+https://arxiv.org/pdf/2005.08067.pdf<br>
+https://medium.com/towards-artificial-intelligence/rocket-fast-and-accurate-time-series-classification-f54923ad0ac9<br>
+https://towardsdatascience.com/a-brief-introduction-to-time-series-classification-algorithms-7b4284d31b97<br>
+https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55<br>
+https://medium.com/swlh/using-sktime-for-time-series-classification-part-2-b07bb6b56d5<br>
+https://towardsdatascience.com/forecast-model-tuning-with-additional-regressors-in-prophet-ffcbf1777dda<br>
+https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a<br>
