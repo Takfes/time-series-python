@@ -1,5 +1,5 @@
 ## TIME SERIES in Python
-1. [sktime-documentation](https://www.sktime.org/en/latest/), [sktime-github](https://github.com/alan-turing-institute/sktime/tree/master/examples)
+1. sktime [documentation](https://www.sktime.org/en/latest/),[github](https://github.com/alan-turing-institute/sktime/tree/master/examples)
 2. [prophet](https://www.youtube.com/watch?v=95-HMzxsghY&ab_channel=ChicagoPythonUsersGroup)
 3. [ucm / statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/statespace_structural_harvey_jaeger.html)
 4. [darts](https://medium.com/unit8-machine-learning-publication/darts-time-series-made-easy-in-python-5ac2947a8878)
@@ -8,9 +8,10 @@
 
 ## NEXT STEPS
 * sktime - baseline - tuning - pipelinining
-* ARIMA external regressors
+* sktime - time series classification
 * sktime multivariate  forecasting
 * explore ucm, darts, prophet
+* ARIMA external regressors
 * ARIMA manual identification
 
 
